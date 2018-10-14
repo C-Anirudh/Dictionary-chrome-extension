@@ -6,7 +6,7 @@ var menu1 = {
 
 var menu2 = {
     id: "speakit",
-    title: "Pronounce",
+    title: "Pronunciation",
     contexts: ["selection"]
 };
 
